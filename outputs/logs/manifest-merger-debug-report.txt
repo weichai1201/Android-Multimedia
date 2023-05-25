@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/20d389676f7332329dff23357cd2c2fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/f8d9bbd526b48504d20053a1d8761694/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/8aa27bfd8a9e49fb5067ce056a962983/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/e231519f4da66bcea5288b3c080a5ac3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/59d8486a2f5cb3f6f691a345c8529da2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/90b3841914013c15bf7743c59aa14f4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/a6c5d84f4a50116aba6b96d2fbccad7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/89d5c3130f48101459651819c25d8c8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/040f638ecc605dcce201093068c005e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/fe334d6d52e0cc3c0d85c5e2cb941323/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/544a800600684335427f3d61d2cca433/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/a1c93d3898a09bf6519ed280e696687a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/040faeced05cc5c65be019dc87b6a4b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/059c863a331589da86acc407f3238c1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/75fc5c1e82f5c532f517976b7a52a2bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/af16483fd65c74e2d2ca84466a470fae/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/2effdd7c583bebd11806b5abf414160d/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/7f7d41e0c583acc3060708ec8cbffc8c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/fd275b861cac812d0ad5bf134f7e56a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/989d7d86891642b459fc1fba40f43f84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/a8cedde4ae8e52c9677a51c2c865614c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/70264f109e088f7b9fd3904717e22f81/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/ab5fec624e4101041d4ea578cccdbc9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/71d2e54ab71bf28f7e1df5c5e88c8c77/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/f22663d7ab28487d3a28f601653dabca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/71925937bb21fedbafbe6b26830ad81c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/09f11f559137432b2c731315759d26e0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/f8d9bbd526b48504d20053a1d8761694/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/f8d9bbd526b48504d20053a1d8761694/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/af16483fd65c74e2d2ca84466a470fae/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/af16483fd65c74e2d2ca84466a470fae/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/2effdd7c583bebd11806b5abf414160d/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/2effdd7c583bebd11806b5abf414160d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/af16483fd65c74e2d2ca84466a470fae/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.mymultimediaapp.MainActivity
+ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:16:27-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml:20:22-64
+uses-sdk
+INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/20d389676f7332329dff23357cd2c2fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/20d389676f7332329dff23357cd2c2fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/f8d9bbd526b48504d20053a1d8761694/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/f8d9bbd526b48504d20053a1d8761694/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/8aa27bfd8a9e49fb5067ce056a962983/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/8aa27bfd8a9e49fb5067ce056a962983/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/e231519f4da66bcea5288b3c080a5ac3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/e231519f4da66bcea5288b3c080a5ac3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/59d8486a2f5cb3f6f691a345c8529da2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/59d8486a2f5cb3f6f691a345c8529da2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/90b3841914013c15bf7743c59aa14f4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/90b3841914013c15bf7743c59aa14f4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/a6c5d84f4a50116aba6b96d2fbccad7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/a6c5d84f4a50116aba6b96d2fbccad7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/89d5c3130f48101459651819c25d8c8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/89d5c3130f48101459651819c25d8c8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/040f638ecc605dcce201093068c005e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/040f638ecc605dcce201093068c005e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/fe334d6d52e0cc3c0d85c5e2cb941323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/fe334d6d52e0cc3c0d85c5e2cb941323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/544a800600684335427f3d61d2cca433/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/544a800600684335427f3d61d2cca433/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/a1c93d3898a09bf6519ed280e696687a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/a1c93d3898a09bf6519ed280e696687a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/040faeced05cc5c65be019dc87b6a4b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/040faeced05cc5c65be019dc87b6a4b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/059c863a331589da86acc407f3238c1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/059c863a331589da86acc407f3238c1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/75fc5c1e82f5c532f517976b7a52a2bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/75fc5c1e82f5c532f517976b7a52a2bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/af16483fd65c74e2d2ca84466a470fae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/af16483fd65c74e2d2ca84466a470fae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/2effdd7c583bebd11806b5abf414160d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/2effdd7c583bebd11806b5abf414160d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/7f7d41e0c583acc3060708ec8cbffc8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/7f7d41e0c583acc3060708ec8cbffc8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/fd275b861cac812d0ad5bf134f7e56a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/fd275b861cac812d0ad5bf134f7e56a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/989d7d86891642b459fc1fba40f43f84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/989d7d86891642b459fc1fba40f43f84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/a8cedde4ae8e52c9677a51c2c865614c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/a8cedde4ae8e52c9677a51c2c865614c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/70264f109e088f7b9fd3904717e22f81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/70264f109e088f7b9fd3904717e22f81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/ab5fec624e4101041d4ea578cccdbc9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/ab5fec624e4101041d4ea578cccdbc9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/71d2e54ab71bf28f7e1df5c5e88c8c77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/71d2e54ab71bf28f7e1df5c5e88c8c77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/f22663d7ab28487d3a28f601653dabca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/f22663d7ab28487d3a28f601653dabca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/71925937bb21fedbafbe6b26830ad81c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/71925937bb21fedbafbe6b26830ad81c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/09f11f559137432b2c731315759d26e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hankaorushou/.gradle/caches/transforms-2/files-2.1/09f11f559137432b2c731315759d26e0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hankaorushou/Desktop/MyMultimediaApp/app/src/main/AndroidManifest.xml

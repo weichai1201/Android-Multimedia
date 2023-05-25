@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/buttonVideoOff"
+        android:textColor="@color/colorPrimary"
+        android:layout_width="60dp"
+        android:layout_height="31dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="44dp"
+        android:onClick="turnOffVideo"
+        android:text="OFF"
+        android:textSize="10dp"
+        app:layout_constraintStart_toEndOf="@+id/buttonVideoOn"
+        app:layout_constraintTop_toBottomOf="@+id/buttonAudioPause" />
+
+    <Button
+        android:id="@+id/buttonVideoOn"
+        android:textColor="@color/colorPrimary"
+        android:layout_width="52dp"
+        android:layout_height="31dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="9dp"
+        android:onClick="turnOnVideo"
+        android:text="ON"
+        android:textSize="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewVideo" />
+
+    <Button
+        android:id="@+id/buttonAudioPause"
+        android:layout_width="56dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="40dp"
+        android:onClick="PauseAudio"
+        android:text="PAUSE"
+        android:textColor="@color/colorPrimary"
+        android:textSize="10dp"
+        app:layout_constraintStart_toEndOf="@+id/buttonAudioOn"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonAudioResume"
+        android:textColor="@color/colorPrimary"
+        android:layout_width="56dp"
+        android:layout_height="32dp"
+        android:layout_marginTop="40dp"
+        android:onClick="turnResumeAudio"
+        android:text="RESUME"
+        android:textSize="8dp"
+        app:layout_constraintStart_toEndOf="@+id/buttonAudioPause"
+        app:layout_constraintTop_toTopOf="parent"
+         />
+
+    <Button
+        android:id="@+id/buttonAudioOff"
+        android:textColor="@color/colorPrimary"
+        android:layout_width="56dp"
+        android:layout_height="32dp"
+        android:layout_marginTop="40dp"
+        android:onClick="turnOffAudio"
+        android:text="OFF"
+        android:textSize="10dp"
+        app:layout_constraintStart_toEndOf="@+id/buttonAudioResume"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/textViewAudio"
+        android:textColor="@color/colorPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="16dp"
+        android:text="Audio"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewVideo"
+        android:textColor="@color/colorPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="33dp"
+        android:text="Video"
+        app:layout_constraintBottom_toBottomOf="@+id/buttonVideoOn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonAudioOn" />
+
+    <Button
+        android:id="@+id/buttonAudioOn"
+        android:textColor="@color/colorPrimary"
+        android:layout_width="56dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="5dp"
+        android:onClick="turnOnAudio"
+        android:text="ON"
+        android:textSize="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewAudio"
+         />
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:textColor="@color/colorPrimary"
+        android:layout_width="414dp"
+        android:layout_height="330dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginBottom="100dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonVideoOff" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
